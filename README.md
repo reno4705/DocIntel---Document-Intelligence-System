@@ -9,8 +9,6 @@
 
 A production-ready document intelligence system that automates forensic analysis of corporate document archives. Uses OCR, NLP, and **Groq AI (LLaMA 3.3 70B)** to extract accountability trails, identify key stakeholders, and answer the critical question: **"Who knew what, and when did they know it?"**
 
-![DocIntel Dashboard](docs/screenshot.png)
-
 ---
 
 ## ✨ Key Features
